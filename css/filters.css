@@ -329,7 +329,7 @@ button {
    Course Banner
    ============================================= */
 .course-banner {
-  background-image: url("banner.png");
+  background-image: url("../img/banner.png");
   color: var(--primary-600);
   padding: 1.5rem;
   position: relative;

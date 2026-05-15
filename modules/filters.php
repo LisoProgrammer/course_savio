@@ -19,7 +19,7 @@
       </button>
       <div class="logo">
         <div class="logo-utb">
-          <img src="logoutb.png" alt="" width="200" height="100">
+          <img src="../img/logoutb.png" alt="" width="200" height="100">
         </div>
         <div class="logo-divider"></div>
         <div class="logo-savio">
@@ -27,7 +27,7 @@
             <circle cx="12" cy="12" r="10"></circle>
             <path d="M12 6v6l4 2"></path>
           </svg> -->
-          <img src="logo-savio-azul.png" alt=""  width="350" height="100">
+          <img src="../img/logo-savio-azul.png" alt=""  width="350" height="100">
         </div>
       </div>
     </div>
